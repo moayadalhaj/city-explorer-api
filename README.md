@@ -7,18 +7,19 @@
 
 ## Overview
 
-This website allows users to explore any location by typing the location name in the input field and as a result, the Lat and the Long will be displayed with a map of that location and you can zoom in and out.
+This api allows users to requwst weather data by typing the location name for paris, seatle and Amman.
 
 ## Getting Started
 
-Used Libraries
-    - React
+Used Libraries and frameworks
+    - Express
     - Axios
-    - Bootstrap
+    - core
+    - nodemon
 
 ## Architecture
 
-For the design, I only used Bootstrap library and some CSS.
+For this api, I used Exspress framework .
 
 ## Change Log
 
@@ -26,7 +27,7 @@ For the design, I only used Bootstrap library and some CSS.
 
 ## Request and Response
 
-![WRRC](assests/)
+![WRRC](assests/wrrcWeather.png)
 
 ### 1: Name of feature: (Back-end) weather info for the searched city
 
