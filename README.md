@@ -7,7 +7,7 @@
 
 ## Overview
 
-This api allows users to requwst weather data by typing the location name for paris, seatle and Amman.
+This api allows users to request weather data and Movies data by typing the location name.
 
 ## Getting Started
 
@@ -29,7 +29,9 @@ For this api, I used Exspress framework .
 
 ![WRRC](assests/wrrcWeather.png)
 
-### 1: Name of feature: (Back-end) weather info for the searched city
+## Lab-07
+
+### 1. Name of feature: (Back-end) weather info for the searched city
 
 Estimate of time needed to complete: 2
 
@@ -39,7 +41,7 @@ Finish time: 4
 
 Actual time needed to complete: 1:30
 
-### 2: Name of feature:(Front-end) weather info for the searched city
+### 2. Name of feature:(Front-end) weather info for the searched city
 
 Estimate of time needed to complete: 2
 
@@ -48,3 +50,25 @@ Start time: 5:00
 Finish time: 8:00
 
 Actual time needed to complete: 3
+
+## Lab-08
+
+### 3. Name of feature:(Back-end) weather live information for the searched city
+
+Estimate of time needed to complete: 3
+
+Start time: 5:00
+
+Finish time: 7:00
+
+Actual time needed to complete: 2
+
+### 4. Name of feature: (Back-end) Movies info related to the the searched city
+
+Estimate of time needed to complete: 1
+
+Start time: 8:00
+
+Finish time: 9:30
+
+Actual time needed to complete: 1:30
